@@ -1,0 +1,7 @@
+[project]
+name = "quran-py-hifz-spaced-scheduler"
+version = "1.0.0"
+description = "Quran Hifz & Muraja'ah Spaced Repetition SM-2 Optimizer (مجدول حفظ ومراجعة القرآن الكريم بالذاكرة المتباعدة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
